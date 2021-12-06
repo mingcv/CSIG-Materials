@@ -1,7 +1,7 @@
 # CSIG-Materials
 Materials for our presentation "Image Disassembly and Fusion" at CSIG 2021.
 
-## 涉及到的文章及代码
+## Related Papers and Codes
 p.4-19 “Hierarchical Image Peeling: A Flexible Scale-space Filtering Framework” *In submission, 2021. [paper](https://arxiv.org/abs/2104.01534), [code](https://github.com/ForawardStar/HIPe)*
 
 p.20-26 “Unsupervised Face Inverse Rendering via Hierarchical Decoupling” *In submission, 2021.*
